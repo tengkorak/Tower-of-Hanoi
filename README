@@ -1,0 +1,15 @@
+
+This program implement the Tower of Hanoi puzzle using C. 
+Credit goes to Amit Singh for the original version. 
+
+Program was modified to satisfy the requirement for MyGOSSCon 2010
+36-Hour OSS WebDev Contest Short-listing round.
+
+To compile:
+gcc -o hanoi hanoi.c
+
+Usage:
+./hanoi <number of disk>
+
+Regards,
+Ali Isa
