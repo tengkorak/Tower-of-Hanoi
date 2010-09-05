@@ -28,7 +28,7 @@ int main (int argc, char **argv)
 
   N = strtol(argv[1], (char **)NULL, 10);
 
-  dohanoi(N, 'A', 'B', 'C');
+  dohanoi(N, 'A', 'C', 'B');
 
   return(0);
 }
